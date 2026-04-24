@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# #Starting Array
-# tools = ['Laptop', 'Monitor', 'Keyboard', 'Mouse']
-=======
-<!-- # Lab 385
+# Lab 385
 # #Starting Array
 # tools = ['Laptop', 'Monitor', 'Keyboard', 'Mouse']
 
@@ -143,4 +139,4 @@ def reorder_years(recentFirst, recentLast):
 
 reorder_years(recent_first, recent_last)
 
-print(recent_first)
+print(recent_first) 
